@@ -1,0 +1,38 @@
+{
+  "id": "foundryvtt-buff-wizard",
+  "title": "Buff Wizard",
+  "description": "A module managing buffs for an entire party",
+  "version": "This is auto replaced",
+  "authors": [
+    {
+      "name": "Adenrius"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "scripts": [],
+  "esmodules": ["module/foundryvtt-buff-wizard.js"],
+  "styles": ["styles/foundryvtt-buff-wizard.css"],
+  "packs": [],
+  "dependencies": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "license": "MIT",
+  "readme": "../README.md",
+  "bugs": "",
+  "changelog": "",
+  "system": [],
+  "library": false
+}
